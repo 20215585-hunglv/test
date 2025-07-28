@@ -4,5 +4,7 @@ const c = a + b;
 console.log(c);
 console.log("This is a test file.");
 console.log("End of test1.js");
+console.log("This is the end of the file.");
+
 
 
